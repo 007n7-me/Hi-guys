@@ -1,4 +1,13 @@
 # Hi-guys
 Abababababa
-$\text{\color{#6bcdba} hey guys this is my alt^_^}$\
-$\text{\color{#B2537A} lalala
+
+
+$\text{\color{#6bcdba} hey guys}$
+
+$\text{\color{#B2537A} lalala}$
+
+$\text{\color{#ff4d3e} this is my alt}$
+
+$\text{\color{#6bcdba} father irl/joke}$
+
+$\text{\color{#B22222} my head hurts}$
