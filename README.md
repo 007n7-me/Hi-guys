@@ -10,4 +10,4 @@ $\text{\color{#ff4d3e} this is my alt}$
 
 $\text{\color{#6bcdba} father irl/joke}$
 
-$\text{\color{#B22222} my head hurts}$
+$\text{\color{#B22222} my head hurt}$
